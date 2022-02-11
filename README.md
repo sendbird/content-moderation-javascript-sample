@@ -36,7 +36,7 @@ The minimum requirements for Calls SDK for Javascript sample are:
 
 This section gives you information you need to get started with the Content Moderation Sample.
 
-#### Installations
+### Installations
 
 1. Use `NodeJS` for your local server: Download and install [`NodeJS`](https://nodejs.org/en/) if your system doesn't have it yet. 
 
@@ -44,7 +44,7 @@ This section gives you information you need to get started with the Content Mode
 
 3. Install the [Sendbird Platform SDK](https://github.com/sendbird/sendbird-platform-sdk-javascript#-local-development) for local development.
 
-#### Create a Sendbird application
+### Create a Sendbird application
 
 1. Login or Sign-up for an account on [Sendbird Dashboard](https://dashboard.sendbird.com).
 2. Create or select an application on the dashboard.
