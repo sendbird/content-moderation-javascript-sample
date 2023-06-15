@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: content-moderation-javascript-sample
+description: The content moderation sample utilizes the Sendbird Platform SDK to ban a user from a group channel if the message sent is considered to be toxic.
+annotations:
+    github.com/project-slug: sendbird/content-moderation-javascript-sample
+spec:
+  type: library
+  lifecycle: production
+  owner: dep-developer-experience
+  system: sendbird-chat
+
