@@ -40,7 +40,7 @@ This section gives you information you need to get started with the Content Mode
 
 1. Use `NodeJS` for your local server: Download and install [`NodeJS`](https://nodejs.org/en/) if your system doesn't have it yet. 
 
-2. Install [`ExpressJS`](https://expressjs.com/), [`GoogleApis`](https://www.npmjs.com/package/googleapis), [`Ngrok`](https://ngrok.com/), and [`Perspective Api Client`](https://github.com/sloria/perspective-api-client).
+2. Install [`ExpressJS`](https://expressjs.com/), [`GoogleApis`](https://www.npmjs.com/package/googleapis), and [`Ngrok`](https://ngrok.com/).
 
 3. Install the [Sendbird Platform SDK](https://github.com/sendbird/sendbird-platform-sdk-javascript#-local-development) for local development.
 
